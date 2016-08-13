@@ -1,0 +1,3 @@
+git add av.csv cl.csv igi.csv mm.csv pb.csv rk.csv
+git commit -m "Updated data"
+git push origin master
